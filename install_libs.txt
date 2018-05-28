@@ -1,5 +1,5 @@
 conda install -y nb_conda
-conda create --name csda1000env
+conda create --name csda1000env python=3.6
 source activate csda1000env
 conda config --add channels udst
 conda config --add channels conda-forge
