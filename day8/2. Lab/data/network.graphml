@@ -737,7 +737,7 @@
 <edge id="1" source="41542771" target="41542772">
   <data key="d7">[5671761, 5688100, 5592565, 5656606]</data>
   <data key="d14">2</data>
-  <data key="d8">['East Whitten Street', 'South Crossbow Drive', 'East Glenmere Drive', 'South Ithica Street']</data>
+  <data key="d8">['South Ithica Street', 'East Whitten Street', 'East Glenmere Drive', 'South Crossbow Drive']</data>
   <data key="d9">['tertiary', 'residential']</data>
   <data key="d10">False</data>
   <data key="d11">333.50800000000004</data>
@@ -760,7 +760,7 @@
 </edge>
 <edge id="1" source="41542772" target="41542771">
   <data key="d7">[5671761, 5688100, 5592565, 5656606]</data>
-  <data key="d8">['South Ithica Street', 'East Whitten Street', 'East Glenmere Drive', 'South Crossbow Drive']</data>
+  <data key="d8">['East Glenmere Drive', 'South Ithica Street', 'East Whitten Street', 'South Crossbow Drive']</data>
   <data key="d9">['tertiary', 'residential']</data>
   <data key="d10">False</data>
   <data key="d11">333.50800000000004</data>
@@ -816,7 +816,7 @@
 <edge id="0" source="371848315" target="4848557987">
   <data key="d7">[537394177, 537394178]</data>
   <data key="d10">False</data>
-  <data key="d14">['2', '3']</data>
+  <data key="d14">['3', '2']</data>
   <data key="d8">East Frye Road</data>
   <data key="d9">tertiary</data>
   <data key="d11">98.06899999999999</data>
@@ -916,7 +916,7 @@
 <edge id="0" source="41979079" target="3851123455">
   <data key="d7">[5642389, 381909807]</data>
   <data key="d8">North Hamilton Place</data>
-  <data key="d9">['residential', 'service']</data>
+  <data key="d9">['service', 'residential']</data>
   <data key="d10">False</data>
   <data key="d11">221.87</data>
   <data key="d13">alley</data>
@@ -1122,16 +1122,16 @@
 <edge id="0" source="4848535844" target="4848535844">
   <data key="d7">[5643394, 492883579, 492883580, 492883581]</data>
   <data key="d8">South Hamilton Street</data>
-  <data key="d9">['residential', 'service']</data>
+  <data key="d9">['service', 'residential']</data>
   <data key="d10">False</data>
   <data key="d11">191.81000000000003</data>
-  <data key="d13">['parking_aisle', 'driveway']</data>
+  <data key="d13">['driveway', 'parking_aisle']</data>
   <data key="d12">LINESTRING (-111.8339623 33.2956331, -111.8339636 33.2954495, -111.8338983 33.2954493, -111.8331511 33.2954476, -111.8331505 33.2956313, -111.8338967 33.295633, -111.8339623 33.2956331)</data>
 </edge>
 <edge id="1" source="4848535844" target="4848535844">
   <data key="d7">[5643394, 492883579, 492883580, 492883581]</data>
-  <data key="d9">['residential', 'service']</data>
-  <data key="d13">['parking_aisle', 'driveway']</data>
+  <data key="d9">['service', 'residential']</data>
+  <data key="d13">['driveway', 'parking_aisle']</data>
   <data key="d10">False</data>
   <data key="d11">191.80999999999997</data>
   <data key="d8">South Hamilton Street</data>
@@ -1459,7 +1459,7 @@
 </edge>
 <edge id="0" source="3361870406" target="41544346">
   <data key="d7">[329321790, 537397543]</data>
-  <data key="d9">['tertiary', 'service']</data>
+  <data key="d9">['service', 'tertiary']</data>
   <data key="d10">False</data>
   <data key="d11">112.79599999999999</data>
   <data key="d14">2</data>
@@ -1896,7 +1896,7 @@
   <data key="d7">[329321790, 537397543]</data>
   <data key="d14">2</data>
   <data key="d8">North Hamilton Street</data>
-  <data key="d9">['tertiary', 'service']</data>
+  <data key="d9">['service', 'tertiary']</data>
   <data key="d10">False</data>
   <data key="d11">112.79599999999999</data>
   <data key="d12">LINESTRING (-111.8328099 33.3039186, -111.832808 33.3044007, -111.8334449 33.3043998)</data>
@@ -1910,8 +1910,8 @@
 </edge>
 <edge id="1" source="41659040" target="3851123455">
   <data key="d7">[381909807, 5654045, 5632685]</data>
-  <data key="d8">['East Commonwealth Place', 'North Jackson Place']</data>
-  <data key="d9">['residential', 'service']</data>
+  <data key="d8">['North Jackson Place', 'East Commonwealth Place']</data>
+  <data key="d9">['service', 'residential']</data>
   <data key="d10">False</data>
   <data key="d11">399.041</data>
   <data key="d13">alley</data>
@@ -2109,16 +2109,16 @@
 </edge>
 <edge id="1" source="3851123455" target="41659040">
   <data key="d7">[5654045, 5632685, 381909807]</data>
-  <data key="d9">['residential', 'service']</data>
+  <data key="d9">['service', 'residential']</data>
   <data key="d13">alley</data>
   <data key="d10">False</data>
   <data key="d11">399.041</data>
-  <data key="d8">['East Commonwealth Place', 'North Jackson Place']</data>
+  <data key="d8">['North Jackson Place', 'East Commonwealth Place']</data>
   <data key="d12">LINESTRING (-111.8299472 33.3043225, -111.8280417 33.3043293, -111.8280463 33.3039257, -111.8299517 33.3039257)</data>
 </edge>
 <edge id="0" source="3851123455" target="41979079">
   <data key="d7">[5642389, 381909807]</data>
-  <data key="d9">['residential', 'service']</data>
+  <data key="d9">['service', 'residential']</data>
   <data key="d13">alley</data>
   <data key="d10">False</data>
   <data key="d11">221.87</data>
@@ -2189,7 +2189,7 @@
 </edge>
 <edge id="0" source="41612050" target="41849849">
   <data key="d7">[5691210, 5630514]</data>
-  <data key="d8">['East Boston Street', 'South Kingston Street']</data>
+  <data key="d8">['South Kingston Street', 'East Boston Street']</data>
   <data key="d9">residential</data>
   <data key="d10">False</data>
   <data key="d11">316.624</data>
@@ -2249,7 +2249,7 @@
 </edge>
 <edge id="0" source="41941829" target="41577408">
   <data key="d7">[5596617, 5639956]</data>
-  <data key="d8">['East Folley Street', 'South Anvil Drive']</data>
+  <data key="d8">['South Anvil Drive', 'East Folley Street']</data>
   <data key="d9">residential</data>
   <data key="d10">False</data>
   <data key="d11">120.589</data>
@@ -2370,7 +2370,7 @@
 <edge id="0" source="4848557987" target="371848315">
   <data key="d7">[537394177, 537394178]</data>
   <data key="d10">False</data>
-  <data key="d14">['2', '3']</data>
+  <data key="d14">['3', '2']</data>
   <data key="d8">East Frye Road</data>
   <data key="d9">tertiary</data>
   <data key="d11">98.06899999999999</data>
@@ -2438,7 +2438,7 @@
 <edge id="0" source="4848557991" target="4848558000">
   <data key="d7">[492885268, 492885269]</data>
   <data key="d9">service</data>
-  <data key="d13">['parking_aisle', 'driveway']</data>
+  <data key="d13">['driveway', 'parking_aisle']</data>
   <data key="d10">False</data>
   <data key="d11">26.269</data>
   <data key="d12">LINESTRING (-111.8337059 33.2985982, -111.8337116 33.2986274, -111.8338515 33.2986504, -111.8339561 33.2986537)</data>
@@ -2469,7 +2469,7 @@
 <edge id="0" source="4848557992" target="4848557994">
   <data key="d7">[492885267, 492885269]</data>
   <data key="d9">service</data>
-  <data key="d13">['parking_aisle', 'driveway']</data>
+  <data key="d13">['driveway', 'parking_aisle']</data>
   <data key="d10">False</data>
   <data key="d11">23.034</data>
   <data key="d12">LINESTRING (-111.8339661 33.2978654, -111.8338489 33.2978666, -111.8337183 33.2978643)</data>
@@ -2477,7 +2477,7 @@
 <edge id="0" source="4848557994" target="4848557992">
   <data key="d7">[492885267, 492885269]</data>
   <data key="d9">service</data>
-  <data key="d13">['parking_aisle', 'driveway']</data>
+  <data key="d13">['driveway', 'parking_aisle']</data>
   <data key="d10">False</data>
   <data key="d11">23.034</data>
   <data key="d12">LINESTRING (-111.8337183 33.2978643, -111.8338489 33.2978666, -111.8339661 33.2978654)</data>
@@ -2515,7 +2515,7 @@
 <edge id="0" source="4848558000" target="4848557991">
   <data key="d7">[492885268, 492885269]</data>
   <data key="d9">service</data>
-  <data key="d13">['parking_aisle', 'driveway']</data>
+  <data key="d13">['driveway', 'parking_aisle']</data>
   <data key="d10">False</data>
   <data key="d11">26.269</data>
   <data key="d12">LINESTRING (-111.8339561 33.2986537, -111.8338515 33.2986504, -111.8337116 33.2986274, -111.8337059 33.2985982)</data>
@@ -2602,7 +2602,7 @@
 </edge>
 <edge id="0" source="41597891" target="41849851">
   <data key="d7">[5679348, 5599343]</data>
-  <data key="d8">['East Cindy Street', 'East Chicago Street']</data>
+  <data key="d8">['East Chicago Street', 'East Cindy Street']</data>
   <data key="d9">residential</data>
   <data key="d10">False</data>
   <data key="d11">368.26599999999996</data>
@@ -2639,7 +2639,7 @@
 </edge>
 <edge id="0" source="41849849" target="41612050">
   <data key="d7">[5630514, 5691210]</data>
-  <data key="d8">['East Boston Street', 'South Kingston Street']</data>
+  <data key="d8">['South Kingston Street', 'East Boston Street']</data>
   <data key="d9">residential</data>
   <data key="d10">False</data>
   <data key="d11">316.624</data>
@@ -2661,7 +2661,7 @@
 </edge>
 <edge id="0" source="41849851" target="41597891">
   <data key="d7">[5679348, 5599343]</data>
-  <data key="d8">['East Cindy Street', 'East Chicago Street']</data>
+  <data key="d8">['East Chicago Street', 'East Cindy Street']</data>
   <data key="d9">residential</data>
   <data key="d10">False</data>
   <data key="d11">368.26599999999996</data>
