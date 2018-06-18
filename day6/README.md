@@ -9,6 +9,6 @@
 - Hypotheses
 - Sampling
   |
-| Lab(11am-12pm; 1pm-2pm) | Feature Engineering and Regression Modeling |
+| Lab(11am-12pm; 1pm-2pm) | Feature Engineering and Evaluation of Modeling |
 | Readings | Chen et al. 2014 – Big Data Analysis |
 |   |   |
